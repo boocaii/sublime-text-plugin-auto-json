@@ -1,0 +1,1 @@
+# sublime-text-plugin-auto-json
