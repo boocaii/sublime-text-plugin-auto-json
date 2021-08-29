@@ -2,6 +2,8 @@
 
 A Sublime Text 3/4 plugin that format possible json string automatically when you edit/paste...
 
+[![screenshot.png](screenshot.png)](screenshot.png)
+
 ## Usage
 
 1. start your file content with first line like this: `$ auto-json`, or rename your file with a `.auto-json` suffix
