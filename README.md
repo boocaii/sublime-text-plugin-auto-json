@@ -14,6 +14,8 @@ A Sublime Text 3/4 plugin that format possible json string automatically when yo
 1. Make sure [Package Control](https://packagecontrol.io/installation) is installed
 2. Open the command palette (Win/Linux: `ctrl+shift+p`, Mac: `cmd+shift+p`)
 3. Type `add repository`, press `Enter`
-4. Paste https://github.com/zhjp0/sublime-text-plugin-auto-json.git, press `Enter` and wait until the installation completes
-5. start your auto-json journey
+4. Paste https://github.com/zhjp0/sublime-text-plugin-auto-json.git, press `Enter`
+5. Open the command palette, type `install package`, press `Enter`
+6. Type `auto json` and installl it
+7. start your auto-json journey
 
