@@ -159,7 +159,7 @@ def __json_json_dict(d):
 
 
 def json_dumps(obj):
-	return json.dumps(obj, ensure_ascii=False, indent='    ')
+	return json.dumps(obj, ensure_ascii=False, indent='    ', sort_keys=True)
 
 
 def is_empty_line(line):
